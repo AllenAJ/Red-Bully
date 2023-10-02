@@ -3,7 +3,7 @@ pragma solidity >=0.4.21 <0.6.0;
 contract complain{
   //uint totalusers;
   uint totalcomplains;
-  string lol = "test";
+  string lol = "test 1";
 
   struct Complaintlist{
           uint id;
